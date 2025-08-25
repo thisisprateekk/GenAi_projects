@@ -1,1 +1,1 @@
-# Text Summarizer using Generative Ai
+Text Summarizer using Generative Ai
