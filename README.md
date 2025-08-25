@@ -1,1 +1,1 @@
-# GenAi_projects
+# Text Summarizer using Generative Ai
